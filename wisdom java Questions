@@ -1,0 +1,31 @@
+Question 1. What Is The Most Important Feature Of Java?
+
+Answer :
+
+Java is a platform independent language.
+
+Question 2. What Do You Mean By Platform Independence?
+
+Answer :
+
+Platform independence means that we can write and compile the java code in one platform (eg Windows) and can execute the class in any other supported platform eg (Linux,Solaris,etc).
+
+Question 3. Are Jvm's Platform Independent?
+
+Answer :
+
+JVM's are not platform independent. JVM's are platform specific run time implementation provided by the vendor.
+
+Question 4. What Is A Jvm?
+
+Answer :
+
+JVM is Java Virtual Machine which is a run time environment for the compiled java class files.
+
+Question 5. What Is The Difference Between A Jdk And A Jvm?
+
+Answer :
+
+JDK is Java Development Kit which is for development purpose and it includes execution environment also. But JVM is purely a run time environment and hence you will not be able to compile your source files using a JVM.
+
+Also Read - https://www.wisdomjobs.com/e-university/core-java-interview-questions.html
